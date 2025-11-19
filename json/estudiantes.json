@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "nombre": "Nuevo Estudiante de Prueba",
+        "edad": 20,
+        "curso": "Dise\u00f1o"
+    },
+    {
+        "id": 2,
+        "nombre": "Ricardo Lopez",
+        "edad": 24,
+        "curso": "Robotica"
+    },
+    {
+        "id": 3,
+        "nombre": "veronica",
+        "edad": 19,
+        "curso": "programacion"
+    },
+    {
+        "id": 4,
+        "nombre": "alejandra",
+        "edad": 14,
+        "curso": "matematicas"
+    },
+    {
+        "id": 5,
+        "nombre": "natalia",
+        "edad": 27,
+        "curso": "fisica"
+    },
+    {
+        "id": 6,
+        "nombre": "natalia",
+        "edad": 29,
+        "curso": "fisica"
+    },
+    {
+        "id": 7,
+        "nombre": "natalia",
+        "edad": 25,
+        "curso": "mate"
+    }
+]
