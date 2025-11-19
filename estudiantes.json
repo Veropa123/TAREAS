@@ -1,0 +1,25 @@
+[
+    {
+    "id":1,
+    "nombre": "Veronica Hernandez",
+    "edad": 29,
+    "curso": "Matematicas"
+    },
+    {
+    "id":2,
+    "nombre": "Emmanuel Rios",
+    "edad": 25,
+    "curso": "Historia"
+    },
+    {
+    "id":3,
+    "nombre": "Edwar Tobon",
+    "edad": 38,
+    "curso": "Programacion"
+    }
+]
+
+import json 
+
+ARCHIVO = "estudiantes.json"
+
