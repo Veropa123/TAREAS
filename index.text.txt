@@ -1,0 +1,49 @@
+libreria nacional
+
+gestion de inventario y reporte dinamico
+
+-registrar ventas
+-productos
+-generarreporte detallado
+-aplicar descuento por cliente
+-agrupar estadisticas por autor,
+-evaluar rendimiento del inventario con base en ventas
+
+GESTION DE INVENTARIO
+
+-- registrar, consultar, actualizar y eliminar productos
+-- cada producto debe tener: titulo,autor,categoria, precio en stock
+
+REGISTRO Y CONSULTA DE VENTAS
+
+-- Permitir, registrar ventas de productos asociando: cliente, producto vendido, cantidad, fecha y descuento (si aplica)
+
+--validar stock disponible y actualizarlo automaticamente
+
+MODULO DE REPORTES
+
+-- Mostrar el top 3 de productos mas vendidos
+
+- generar reporte de ventas totales agrupado por autor
+
+
+
+VALIDACIONES AVANZADAS
+
+-validar entradas (numeros positivos, formatos correctos, campos obligatorios)
+
+-no permitir ventas con stock insuficiente
+
+DISEÑO MODULAR CON FUNCIONES
+
+- Cada funcionalidad debe ser encapsulada en funciones
+- se deben usar funciones con parametros y retorno
+-uso de funciones lamda
+
+ALMACENAMIENTO EN ESTRUCTURAS DE DATOS
+
+-
+
+
+
+
