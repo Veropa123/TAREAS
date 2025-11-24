@@ -1,0 +1,6 @@
+customer,type,product,author,qty,discount,total
+Riwi,premium,Fisica Macanica,Tesla group,20,0.1,1440000.0
+upb,regular,Anatomia ,Tortora,10,0.0,3000000.0
+itm,vip,Libro la Divina Comedia,Dante Aligueri,8,0.2,512000.0
+colegio mayor,regular,Libro la era digital,Anthony plazas,10,0.0,500000.0
+susana sanchez,vip,Libro la era digital,Anthony plazas,11,0.2,440000.0
