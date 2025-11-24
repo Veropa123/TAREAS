@@ -1,0 +1,7 @@
+id,name,author,category,price,stock,warranty
+1,Libro la Divina Comedia,Dante Aligueri,Mitologia Griega,80000,25,1
+2,Libro la Iliada,Homero,Mitologia Griega,50000,15,1
+3,Libro Doce Cuentos Peregrinos,Gabriel Garcia Marquez,Fantasia,30000,30,1
+4,Libro Cien años de soledad ,Gabriel Garcia Marquez,Fantasia,100000,50,1
+5,Libro El amor en los tiempos del colera,Gabriel Garcia Marquez,"romance, fantasia",35000,10,1
+6,Libro la era digital,Anthony plazas,Software,50000.0,2,2
